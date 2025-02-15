@@ -2,7 +2,7 @@
 Welcome to my GitHub repository, where I showcase my projects in Flutter, UI/UX Design (Figma), and Web Development. As an MCA student passionate about app and web development, I continuously explore new technologies to build user-friendly and visually appealing applications.
 # 🎨 UI/UX Design Files  
 
-Welcome to my **Figma UI/UX Design Repository**! This space contains design files for various projects, created to enhance **user experience and visual appeal**.  
+Welcome to my **build_design_innovate Repository**! This space contains design files for various projects, created to enhance **user experience and visual appeal**.  
 
 ## 🔗 Figma Design Link  
 🔗 **View the design here:** [Figma Link](https://www.figma.com/design/mpVTFmifF4claoCRy98923/FRESH?node-id=0-1&t=cM3h7JxctVpqz2A0-1)  
