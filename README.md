@@ -5,7 +5,8 @@ Welcome to my GitHub repository, where I showcase my projects in Flutter, UI/UX 
 Welcome to my **build_design_innovate Repository**! This space contains design files for various projects, created to enhance **user experience and visual appeal**.  
 
 ## 🔗 Figma Design Link  
-🔗 **View the design here:** [Figma Link](https://www.figma.com/design/mpVTFmifF4claoCRy98923/FRESH?node-id=0-1&t=cM3h7JxctVpqz2A0-1)  
+🔗 **View the FRESH design here:** [Figma  Link](https://www.figma.com/design/mpVTFmifF4claoCRy98923/FRESH?node-id=0-1&t=cM3h7JxctVpqz2A0-1)  
+🔗 **View the VELVETVAULT design here:** [Figma  Link](https://www.figma.com/design/W5lxeIQrAsa8cdpoQam2Ak/velvetvault?node-id=0-1&t=SdnrtMc0qQ61zJoE-1)
 
 ## 📂 How to Use the Files  
 1. **Download the `.fig` file** from this repository.  
